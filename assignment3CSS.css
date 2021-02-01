@@ -1,0 +1,67 @@
+h1 {
+  color: #FFFFFF;
+
+  background-color: #FF0000;
+
+}
+
+h3 {
+  color: #FF7C00;
+
+  background-color: #08FF00;
+
+}
+
+a {
+ color: #ff0000;
+ text-decoration: none;
+}
+
+b {
+color: #004DFF;
+
+}
+
+a:hover {
+ color: #FFFF00;
+ text-decoration: underline;
+}
+
+a:visited {
+ color: #00FF00;
+}
+
+.spanstyle {
+  color: #00FF00;
+}
+
+#divexample {
+  color: #0000FF;
+  background-color: #000000;
+}
+
+#divexample2 {
+  color: #000000;
+  background-color: #C900FF;
+}
+
+#specialid {
+  color: #00FF00;
+  background-color: #000000;
+}
+
+#specialid2 {
+  color: #000000;
+  background-color: #00FF00;
+}
+
+
+.specialp {
+ color: #00FF00;
+ background-color: #FFFFFF;
+}
+
+footer {
+  color: #ffffff;
+  background-color: #FF0000;
+}
