@@ -1,0 +1,52 @@
+body { background-color: #999999; }
+
+a { color: orange!important; }
+
+#wrapper {
+  width: 960px;
+  border: 1px solid #ff0000;
+  background-color: #ffffff;
+  margin: 1em auto;
+  padding: 1em;
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-template-rows: 100px auto 75px;
+}
+
+header {
+  border: 1px solid red;
+  grid-column: span 12;
+}
+
+nav {
+  border: 1px solid red;
+  grid-column: span 3;
+
+}
+
+main {
+  border: 1px solid red;
+  grid-column: span 9;
+}
+
+footer {
+  border: 1px solid red;
+  grid-column: span 12;
+}
+
+.floatimage {
+  width: 75px;
+  float: left;
+  margin: 0 20px 20px 0;
+}
+
+.p2 {
+  clear: both;
+}
+
+.pi, .p2 {
+}
+
+a {
+  color: purple;
+}
