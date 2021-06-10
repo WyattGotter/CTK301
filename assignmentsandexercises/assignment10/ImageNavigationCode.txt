@@ -1,0 +1,90 @@
+<ul>
+<section class="roundedbox"><li><a href="WyattsSite.html"><img class="mainimg" src="homeimage.png" alt="Home Image"></a></li>
+<li><a href="WyattsSiteProjects.html"><img class="mainimg" src="projectsimage.png" alt="Projects Image"></a></li>
+<li><a href="WyattsSiteAbout.html"><img class="mainimg" src="aboutimage.png" alt="About Image"></a></li></section>
+</ul>
+
+
+
+nav li a {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 120px;
+  border-radius: 18px;
+  transition: background-color .5s, color 2s;
+}
+
+
+
+<nav>
+	<ul>
+		<section class="roundedbox"><li><a href="WyattsSite.html"><img class="fade-in-image1" src="homeimage.png"></a></li>
+		<li><a href="WyattsSiteProjects.html"><img class="fade-in-image2" src="projectsimage.png"></a></li>
+		<li><a href="WyattsSiteAbout.html"><img class="fade-in-image3" src="aboutimage.png"></a></li></section>
+	</ul>
+
+  font-style: italic;
+
+
+
+  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
+
+129 x 105.78
+
+
+	<a data-fancybox="gallery" href="artforwebsite/1.jpg"><img src="artforwebsite/1.jpg"></a>
+		<a data-fancybox="gallery" href="artforwebsite/2.jpg"><img src="artforwebsite/2.jpg"></a>
+		<a data-fancybox="gallery" href="artforwebsite/3.jpg"><img src="artforwebsite/3.jpg"></a>
+		<a data-fancybox="gallery" href="artforwebsite/4.jpg"><img src="artforwebsite/4.jpg"></a>
+		<a data-fancybox="gallery" href="artforwebsite/5.jpg"><img src="artforwebsite/5.jpg"></a>
+		<a data-fancybox="gallery" href="artforwebsite/6.PNG"><img src="artforwebsite/6.PNG"></a>
+		<a data-fancybox="gallery" href="artforwebsite/7.jpg"><img src="artforwebsite/7.jpg"></a>
+		<a data-fancybox="gallery" href="artforwebsite/8.jpg"><img src="artforwebsite/8.jpg"></a>
+		<a data-fancybox="gallery" href="artforwebsite/9.jpg"><img src="artforwebsite/9.jpg"></a>
+		<a data-fancybox="gallery" href="artforwebsite/10.jpg"><img src="artforwebsite/10.jpg"></a>
+		<a data-fancybox="gallery" href="artforwebsite/11.jpg"><img src="artforwebsite/11.jpg"></a>
+		<a data-fancybox="gallery" href="artforwebsite/12.jpg"><img src="artforwebsite/12.jpg"></a>
+		<a data-fancybox="gallery" href="artforwebsite/13.jpg"><img src="artforwebsite/13.jpg"></a>
+		<a data-fancybox="gallery" href="artforwebsite/14.jpg"><img src="artforwebsite/14.jpg"></a>
+		<a data-fancybox="gallery" href="artforwebsite/15.png"><img src="artforwebsite/15.png"></a>
+		<a data-fancybox="gallery" href="artforwebsite/16.jpg"><img src="artforwebsite/16.jpg"></a>
+		<a data-fancybox="gallery" href="artforwebsite/17.jpg"><img src="artforwebsite/17.jpg"></a>
+		<a data-fancybox="gallery" href="artforwebsite/18.jpg"><img src="artforwebsite/18.jpg"></a>
+		<a data-fancybox="gallery" href="artforwebsite/19.PNG"><img src="artforwebsite/19.PNG"></a>
+		<a data-fancybox="gallery" href="artforwebsite/20.jpg"><img src="artforwebsite/20.jpg"></a>
+		<a data-fancybox="gallery" href="artforwebsite/21.jpg"><img src="artforwebsite/21.jpg"></a>
+		<a data-fancybox="gallery" href="artforwebsite/22.jpg"><img src="artforwebsite/22.jpg"></a>
+		<a data-fancybox="gallery" href="artforwebsite/23.jpg"><img src="artforwebsite/23.jpg"></a>
+		<a data-fancybox="gallery" href="artforwebsite/24.jpg"><img src="artforwebsite/24.jpg"></a>
+		<a data-fancybox="gallery" href="artforwebsite/25.PNG"><img src="artforwebsite/25.PNG"></a>
+		<a data-fancybox="gallery" href="artforwebsite/26.PNG"><img src="artforwebsite/26.PNG"></a>
+		<a data-fancybox="gallery" href="artforwebsite/27.jpg"><img src="artforwebsite/27.jpg"></a>
+		<a data-fancybox="gallery" href="artforwebsite/28.jpg"><img src="artforwebsite/28.jpg"></a>
+		<a data-fancybox="gallery" href="artforwebsite/29.jpg"><img src="artforwebsite/29.jpg"></a>
+		<a data-fancybox="gallery" href="artforwebsite/30.jpeg"><img src="artforwebsite/30.jpeg"></a>
+		<a data-fancybox="gallery" href="artforwebsite/31.jpg"><img src="artforwebsite/31.jpg"></a>
+		<a data-fancybox="gallery" href="artforwebsite/32.jpg"><img src="artforwebsite/32.jpg"></a>
+		<a data-fancybox="gallery" href="artforwebsite/33.png"><img src="artforwebsite/33.png"></a>
+		<a data-fancybox="gallery" href="artforwebsite/34.jpg"><img src="artforwebsite/34.jpg"></a>
+		<a data-fancybox="gallery" href="artforwebsite/35.png"><img src="artforwebsite/35.png"></a>
+
+
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+</table>
